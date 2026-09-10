@@ -1,0 +1,11 @@
+tests/
+data/
+.git/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+README.md
+pyproject.toml
