@@ -6,3 +6,6 @@ data/
 *.egg-info/
 dist/
 build/
+
+.vercel
+.env*
